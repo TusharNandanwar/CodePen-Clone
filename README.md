@@ -1,9 +1,7 @@
 
 # Screenshot
  
-
-
-
+![codepenclone](https://github.com/TusharNandanwar/CodePen-Clone/assets/93318949/ba6443a9-c0c8-45fc-b46c-92607e2ef85a)
 
 # Getting Started with Create React App
 
